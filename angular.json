@@ -67,7 +67,8 @@
               "browserTarget": "moments:build:production"
             },
             "development": {
-              "browserTarget": "moments:build:development"
+              "browserTarget": "moments:build:development",
+              "port": 5000              
             }
           },
           "defaultConfiguration": "development"
