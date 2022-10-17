@@ -8,5 +8,7 @@
 			"path": "../Moments"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Moments"
+	}
 }
